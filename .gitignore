@@ -1,0 +1,16 @@
+
+#Gradle
+.gradletasknamecache
+.gradle/
+
+#Generated Folders
+build/
+bin/
+
+#Eclipse
+.classpath
+.project
+.settings/
+
+#Idea
+.idea/
